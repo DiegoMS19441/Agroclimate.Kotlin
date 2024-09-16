@@ -1,11 +1,15 @@
 RM551191 - Diego Mascarenhas S
+
 RM98482 - Sarah O. S. Rosa
+
 RM97798 - Ester Dutra da Silva
+
 RM550981- Henrique Gerson Costa Correia
+
 RM99985 - Felipe Batista Gregório
 
 
-#Explicação do projeto
+# Explicação do projeto
 
 
 Nosso projeto é voltado para o campo da agricultura. Temos como objetivo desenvolver uma ferramenta que auxilie o agricultor a investir seus recursos em colheitas produtivas.
