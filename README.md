@@ -21,3 +21,6 @@ insumos em plantações improdutivas.
 # Diagrama da arquitetura
 <img width="862" alt="Captura de Tela 2024-09-16 às 19 59 03" src="https://github.com/user-attachments/assets/e0d2b16b-f8e1-40fb-be03-ebc573d5581f">
 
+# Video funcionamento do app
+
+https://youtube.com/shorts/ITuIn3yYN7Q?feature=share
